@@ -48,4 +48,4 @@ Containerized infrastructure using Docker
 ##  Contact
 - GitHub: [Bronxx-x](https://github.com/Bronxx-x)
 - LinkedIn: [Yousef Hamdan](https://www.linkedin.com/in/yousef-hamdan-61032a38a/)
-- Email: [taseerhamdan5002@gmail.com](mailto:taseerhamdan5002@gmail.com)
+- Email: [taseerhamdan5002@gmail.com](mailto:taeseerhamdan5002@gmail.com)
