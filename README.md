@@ -30,7 +30,9 @@ Containerized infrastructure using Docker
 ## Tech Stack
 
 **Languages**  
-C, C++  
+Programming: C, C++, Python, JavaScript
+Familiar: C#, Java
+Backend: Django, ASP.NET Core, REST API design
 
 **Systems Programming**  
 Linux, POSIX, system calls, processes, pipes, signals  
